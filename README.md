@@ -12,3 +12,11 @@ Reconocimiento facial usando el modelo pre entrenado VGGFace2.
 4. Tareas que podemos asignar a cada dev. Modelado de datos scripts, la implementación el modelo pre entrenado, MVP.
 5. **Cómo implementar el modelo  VGGFace2**
 6. **Gestor de librerías y/o módulos.**
+=======
+1. Librerías necesarias.
+2. Cómo implementar el modelo  VGGFace2
+3. Gestor de librerías y/o módulos.
+
+
+
+
