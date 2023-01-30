@@ -11,4 +11,4 @@ Reconocimiento facial usando el modelo pre entrenado VGGFace2.
 3. Gestor de librerías y/o módulos.
 
 
-
+njñflñ{lfkdsnl}
