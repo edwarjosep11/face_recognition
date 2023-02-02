@@ -45,3 +45,10 @@ Para ejecutar streamlit y ver el local los avances usaremos:
 ``streamlit run App.py``
 
 Se abrirá automáticamente una pestaña del navegador para visualizar el ``Hola Mundo`` en streamlit.
+=======
+5. **Cómo implementar el modelo  VGGFace2**
+6. **Gestor de librerías y/o módulos.**
+=======
+1. Librerías necesarias.
+2. Cómo implementar el modelo  VGGFace2
+3. Gestor de librerías y/o módulos.
