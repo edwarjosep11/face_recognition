@@ -39,16 +39,27 @@ En este caso para replicar se debe instalar las dependencias desde el ``requirem
 
 La carpeta o directorio ``pages/`` contendrá todas cada uno de los componentes de nuestra aplicacion web. Es importante mencionar que los nombres de los archivos dentro este directorio pasarán a ser los títulos omitiendo el ``_`` en caso hubiera. Por ejemplo; si nuestro archivo tiene de nombre ``01_About.py`` el título en el sidebar será ``01 About``.
 
+Para ejecutar streamlit y ver el local los avances usaremos:
+``streamlit run App.py``
 
+Se abrirá automáticamente una pestaña del navegador para visualizar el ``Hola Mundo`` en streamlit.
+
+``source face-recognition-venv/Scripts/activate``
+
+Una vez dentro del ambiente virtual desarrollamos nuestro código he aquí recien debemos instalar nuestras dependencias, librerías y/o módulos ya sean usando el gestor de paquetes ``pip``, por ejemplo:
+
+``pip install streamlit``
+``pip install torch``
+
+En este caso para replicar se debe instalar las dependencias desde el ``requirements.txt`` usando el comando:
+
+``pip install -r requirements.txt``
+
+**Ojo: Aseguremonos siempre estar dentro del ambiente virtual que hemos creado.**
+
+La carpeta o directorio ``pages/`` contendrá todas cada uno de los componentes de nuestra aplicacion web. Es importante mencionar que los nombres de los archivos dentro este directorio pasarán a ser los títulos omitiendo el ``_`` en caso hubiera. Por ejemplo; si nuestro archivo tiene de nombre ``01_About.py`` el título en el sidebar será ``01 About``.
 
 Para ejecutar streamlit y ver el local los avances usaremos:
 ``streamlit run App.py``
 
 Se abrirá automáticamente una pestaña del navegador para visualizar el ``Hola Mundo`` en streamlit.
-=======
-5. **Cómo implementar el modelo  VGGFace2**
-6. **Gestor de librerías y/o módulos.**
-=======
-1. Librerías necesarias.
-2. Cómo implementar el modelo  VGGFace2
-3. Gestor de librerías y/o módulos.
